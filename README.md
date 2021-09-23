@@ -1,1 +1,1 @@
-visit : [](https://itzsnehasis.github.io/idk/)
+visit : [this](https://itzsnehasis.github.io/idk/)
